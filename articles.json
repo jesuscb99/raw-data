@@ -1,29 +1,8 @@
 [
 {
-    title: "Optimization of polyphenol extraction from grape waste",
-    source: "Journal of Agricultural and Food Chemistry",
-    year: 2023,
-    present_kinetic_data: true,
-    identify_polyphenols: true,
-    report_particle_size: true,
-    extraction_method: "Ultrasound-assisted extraction",
-    solvent: "Ethanol 70%",
-    matrix_group: "Plant waste",
-    matrix_name: "Grape pomace",
-    matrix_botanical_name: "Vitis vinifera L.",
-    pretreatment_notes: "Dried and ground to 2mm",
-    c_etoh_min: 50,
-    c_etoh_max: 90,
-    temperature_min: 20,
-    temperature_max: 60,
-    time_max: 120,
-    ls_min: 1,
-    ls_max: 50,
-    rpm: 200,
-    ultrasound_power: 400,
-    target_compounds: "Anthocyanins, Flavonols, Phenolic acids",
-    quantification_methods: "HPLC-DAD, LC-MS/MS",
-    kinetic_models: "Peleg, Weibull",
-    type_of_data: "Experimental",
+    "title": "Optimization of polyphenol extraction from grape waste",
+    "source": "Journal of Agricultural and Food Chemistry",
+    "year": 2023,
+    "present_kinetic_data": true
   }
 ]
